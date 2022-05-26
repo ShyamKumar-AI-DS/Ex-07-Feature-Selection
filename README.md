@@ -126,3 +126,5 @@ sn.pairplot(boston[['CRIM','RM','PTRATIO','LSTAT']])
 ![output](D.png)
 ![output](E.png)
 
+# Result :
+The various feature selection techniques on a dataset has been performed and the data has been saved to a file.
